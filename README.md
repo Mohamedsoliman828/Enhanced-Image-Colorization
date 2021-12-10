@@ -1,4 +1,4 @@
-# Patch Colorization
+# Enhanced Image Colorization
 
 ![header](imgs/header.jpg)
 
@@ -49,7 +49,7 @@ The colorization results below shows a comparison against [Colorful Image Colori
 ### 1. clone repository
 
 ```
-git clone https://github.com/moziada/PatchColorization.git
+git clone https://github.com/Mohamedsoliman828/Enhanced-Image-Colorization.git
 ```
 
 ### 2. install dependencies
